@@ -7,10 +7,13 @@
 python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together
 ___
 # About the BootCamp :
-The BootCamp will be held in person at the University of Hail, in the College of Computer Science and Engineering . A Python bootcamp is an intensive but flexible course that trains learners in the language quickly
-BootCamp Trainer  : **Mohammed Farhan Al-Shammari**
-It will be held between the year **2022-2023** on the second semester
-___
+The BootCamp will be held in person at the University of Hail, in the College of Computer Science and Engineering . A Python bootcamp is an intensive but flexible course that trains learners in the language quickly It will be held between the year **2022-2023** on the second semester
+___     
+# BootCamp Trainer :
+Name : **Mohammed Farhan Al-Shammari**
+major : **Computer Science** 
+[Trainer socials ](https://t.co/7JVgRh9arv)
+
 
 
 
