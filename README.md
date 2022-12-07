@@ -11,6 +11,7 @@ The BootCamp will be held in person at the University of Hail, in the College of
 ___     
 # BootCamp Trainer :
 Name : **Mohammed Farhan Al-Shammari**
+
 major : **Computer Science** 
 [Trainer socials ](https://t.co/7JVgRh9arv)
 
