@@ -1,0 +1,12 @@
+# *3 printing shapes as an output
+print("   /|")
+print("  / |")
+print(" /__|")
+print("")
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
+print("******")
+print("*******")
